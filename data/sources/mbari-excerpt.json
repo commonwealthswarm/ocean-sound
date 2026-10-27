@@ -1,0 +1,28 @@
+{
+  "id": "mbari-20151207-065815-55s",
+  "title": "MBARI public hydrophone recording, 55-second humpback whale example excerpt",
+  "url": "not stated in the task facts; the file is held by the Night Shift operator, not in this repository",
+  "license": "CC-BY 4.0",
+  "attribution": "Recording by MBARI (Monterey Bay Aquarium Research Institute), licensed CC-BY 4.0; attribution to MBARI required.",
+  "redistribution": "attribution-required",
+  "status": "unverified",
+  "publishable": false,
+  "file_name": "mbari-20151207-065815-55s.wav",
+  "held_by": "Night Shift operator; not stored in this repository",
+  "description": "Public MBARI recording. A 55-second excerpt selected by MBARI's official notebook as a humpback whale example, converted to 16 kHz mono 24-bit with source PCM values unchanged. It is NOT the original 256 kHz source. It is a sample, NOT a Night Shift discovery.",
+  "format": {
+    "duration_seconds": 55,
+    "sample_rate_hz": 16000,
+    "channels": 1,
+    "bits_per_sample": 24,
+    "original_source_sample_rate_hz": 256000,
+    "is_original_source": false
+  },
+  "night_shift_discovery": false,
+  "sha256_note": "The SHA-256 is recorded by the operator in a metadata file not visible to this task; it is deliberately omitted, so the record stays unverified.",
+  "limits": [
+    "sample of one: a single 55-second excerpt",
+    "no population claim: nothing about humpback whales in general or any population can be inferred from it",
+    "no call meaning claim: no meaning, translation or function is assigned to any sound in it"
+  ]
+}
